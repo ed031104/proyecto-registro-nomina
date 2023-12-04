@@ -1,0 +1,15 @@
+C:\Users\edwin\source\repos\poyectoExamen2\poyectoExamen2\bin\Debug\poyectoExamen2.exe.config
+C:\Users\edwin\source\repos\poyectoExamen2\poyectoExamen2\bin\Debug\poyectoExamen2.exe
+C:\Users\edwin\source\repos\poyectoExamen2\poyectoExamen2\bin\Debug\poyectoExamen2.pdb
+C:\Users\edwin\source\repos\poyectoExamen2\poyectoExamen2\bin\Debug\MaterialSkin.dll
+C:\Users\edwin\source\repos\poyectoExamen2\poyectoExamen2\obj\Debug\poyectoExamen2.csproj.AssemblyReference.cache
+C:\Users\edwin\source\repos\poyectoExamen2\poyectoExamen2\obj\Debug\poyectoExamen2.Form1.resources
+C:\Users\edwin\source\repos\poyectoExamen2\poyectoExamen2\obj\Debug\poyectoExamen2.Properties.Resources.resources
+C:\Users\edwin\source\repos\poyectoExamen2\poyectoExamen2\obj\Debug\poyectoExamen2.csproj.GenerateResource.cache
+C:\Users\edwin\source\repos\poyectoExamen2\poyectoExamen2\obj\Debug\poyectoExamen2.csproj.CoreCompileInputs.cache
+C:\Users\edwin\source\repos\poyectoExamen2\poyectoExamen2\obj\Debug\poyectoExamen2.csproj.CopyComplete
+C:\Users\edwin\source\repos\poyectoExamen2\poyectoExamen2\obj\Debug\poyectoExamen2.exe
+C:\Users\edwin\source\repos\poyectoExamen2\poyectoExamen2\obj\Debug\poyectoExamen2.pdb
+C:\Users\edwin\source\repos\poyectoExamen2\poyectoExamen2\bin\Debug\ClassLibrary1.dll
+C:\Users\edwin\source\repos\poyectoExamen2\poyectoExamen2\bin\Debug\ClassLibrary1.pdb
+C:\Users\edwin\source\repos\poyectoExamen2\poyectoExamen2\obj\Debug\poyectoExamen2.ListaUsuario.resources
